@@ -1,0 +1,744 @@
+abeille
+abeille charpentière
+abyssin
+accenteur mouchet
+addax
+aigle royal
+akita Inu
+agame Barbu
+agame des colons
+agouti doré
+agouti ponctué
+aigrette Garzette
+ailurops
+akhal téké doré
+alligator d'Amérique
+alouette des champs
+alpaga
+american curl
+anaconda vert
+ane de Provence
+ane grand noir du Berry
+ane sauvage d'Asie
+ane sauvage de Somalie
+angora Turc
+anhinga
+antilope du Tibet
+appaloosa
+ara de Spix
+ara jaune et Bleu
+ara hyacinthe
+ara rouge
+araçari d'Azara
+ardennais
+argiope frelon
+argus bleu
+atèle noir de Colombie
+atlas
+antilope Cervicapre
+aubrac
+autruche
+axolotl
+aye-aye
+babiroussa
+babouin olive
+baleine à bosse
+baleine bleue
+baleine grise
+balinais
+bandicoot lapin
+barbican à tête rouge
+baribal
+barzoï
+basenji
+basilic vert
+basset Hound
+bateleur des savanes
+baudet du Poitou
+beagle
+beauceron
+bec en sabot
+belette
+belle-Dame
+béluga
+bengal
+berger Allemand
+berger Australien
+berger blanc Suisse
+berger d'Anatolie
+berger d'Ecosse
+berger de Beauce
+berger d'Islande
+bergeronnette grise
+bernache du Canada
+bichon Maltais
+bihoreau gris
+binturong
+bison d'Amérique du Nord
+blaireau d'Amérique
+blaireau d'Europe
+blesbok
+bleu russe
+bobcat
+bobtail
+boeuf musqué
+bongo
+bonobo
+border-collie
+boto
+bouledogue Français
+bouledogue Anglais
+bouquetin des Alpes
+bourdon terrestre
+bouvreuil pivoine
+bouvier Bernois
+boxer
+briard
+british shorthair
+braque Allemand
+brochet
+brumby
+bubale de Coke
+buffle d'Afrique
+buffle d'Asie
+buffle d'eau
+bulldog Anglais
+burmese
+buse à épaulettes
+buse variable
+butor étoilé
+cacatoès à huppe jaune
+cacatoès noir
+cacatoès rosalbin
+cachalot
+caille des blés
+caïman à lunettes
+calao bicorne
+calao leucomèle
+calao terrestre
+calliste septicolore
+camargue
+caméléon panthère
+campagnol roussâtre
+canard branchu
+canard mandarin
+cane corso
+capucin brun
+capybara
+caracal
+caracara huppé
+carcajou
+cardinal rouge
+cariacou
+caribou
+casoar à casque
+castor d'Europe
+cavalier King Charles
+céphalophe zébré
+cercopithèque de Brazza
+cerf de Virginie
+cerf elaphe
+cerf-souris
+cétoine dorée
+chacal à dos noir
+chameau de bactriane
+chamois
+chardonneret élégant
+charolaise
+chartreux
+chat pêcheur
+chat de Pallas
+chat de temminck
+chat des sables
+chat sauvage
+chat-huant
+chat marsupial
+chauve souris géante
+chevêche d'Athéna
+chèvre des montagnes rocheuses
+chèvre naine
+chevreuil
+chevrotin de Balabac
+chien chinois à crête
+chien de prairie
+chien des buissons
+chien-loup Tchécoslovaque
+chien viverrin
+chihuahua
+chimpanzé
+chiru
+chirurgien bleu
+chouette effraie
+chouette Hulotte
+chouette lapone
+chow-Chow
+cigale commune
+cigogne blanche
+cigogne noire
+cincle plongeur
+circaète Jean Leblanc
+civette de Malaisie
+clydesdale
+coati
+cob irlandais
+cobe à croissant
+cobra royal
+coccinelle à 7 points
+cocker Anglais
+colibri d'Anna
+colibri porte-épée
+colley à poil long
+colobe d'Angola
+comtois
+condylure à nez étoilé
+coq de roche
+condor des Andes
+coracine casquée
+corbeau freux
+cormoran pie
+corneille noire
+cotinga de Cayenne
+coucou geai
+couleuvre Rayée
+couleuvre verte et jaune
+couscous tacheté
+coyote
+crabe des cocotiers
+crapaud d'Amérique
+criocère du lis
+crocodile du Nil
+cygne à cou noir
+cygne chanteur
+cygne noir
+cygne tuberculé
+daim
+dalmatien
+damalisque
+daman du Cap
+dasyure
+dauphin pilote
+dauphin rose d'Amazonie
+dauphin souffleur
+deerhound
+dendrobate bleue
+dendrobate fraise
+dendrolague
+desman
+dhole
+diable cornu
+diable de tasmanie
+dik dik
+dindon
+dingo
+doberman
+dodo
+dogue Allemand
+dogue du Tibet
+doryphore
+douc
+draco volans
+dragon d'Australie
+dragon de Komodo
+dromadaire
+echasse blanche
+echidné à nez court
+ecureuil de Prévost
+ecureuil de Barbarie
+ecureuil du Yucatan
+ecureuil fouisseur du Cap
+ecureuil Géant d'Inde
+ecureuil gris
+ecureuil roux
+eider à lunettes
+elan
+eland du Cap
+elephant d'Afrique
+elephant d'Asie
+elephant de mer
+emeu d'Australie
+entelle d'Hanuman
+eyra
+etourneau améthyste
+etourneau sansonnet
+faisan de Colchide
+faucon crécerelle
+faucon pèlerin
+fauvette mélanocéphale
+fell
+fennec
+flamant nain
+flamant rose
+fossa
+fou à pieds bleus
+fouine
+frégate superbe
+frelon asiatique
+frelon européen
+frison
+galago du Sénégal
+gallinule poule d'eau
+gavial
+gazelle de Thomson
+geai bleu
+geai des chênes
+géant des Flandres
+gecko géant de Madagascar
+gélada
+gendarme
+genette commune
+gerenuk
+gibbon lar
+girafe
+globicéphale noir
+glouton
+gnou bleu
+goéland argenté
+golden retriever
+gorfou sauteur
+gorge bleue à miroir
+gorille
+goujon
+goundi de l'Atlas
+goura couronné
+grand cormoran
+grand Danois
+grand duc bruyant
+grand duc indien
+grand koudou
+grande aigrette
+grèbe huppé
+grenouille fraise
+grenouille Taureau
+grenouille verte
+grillon champêtre
+gris du Gabon
+grizzly
+grue Antigone
+grue Caronculée
+grue Couronnée
+grue du Japon
+guanaco
+guépard d'Afrique
+guépard d'Asie
+guêpe commune
+guêpier d'Europe
+guira cantara
+gypaète barbu
+haflinger
+hamadryas
+hamster d'Europe
+harfang des neiges
+harpie féroce
+henson
+hérisson
+hémione
+hermine
+héron cendré
+héron garde-boeufs
+héron vert
+hibou grand-duc
+hippopotame
+hippotrague noir
+hirondelle bicolore
+hirondelle rustique
+hoazin hupée
+hocco nocturne
+husky
+hydropote
+hyène brune
+hyène tachetée
+hyène rayée
+hylochère
+ibijau gris
+ibis rouge
+iguane rhinocéros
+iguane rose
+iguane vert
+ili pika
+impala
+indri
+isatis
+jabiru d'Afrique
+jabiru d'Amérique
+jack Russell Terrier
+jaguar
+jaguarondi
+jacamar à queue rousse
+jaseur boréal
+kakapo
+kangourou arboricole
+kangourou roux
+kiwi austral
+koala
+kodiak
+kokoï de Colombie
+komondor
+konik polski
+kookaburra à ailes bleues
+lagopède alpin
+langur sacré
+lama
+lamantin
+lapin de garenne
+lémur couronné
+leonberg
+léopard d'Afrique
+léopard des mers
+léopard des neiges
+leptophye ponctuée
+lérot
+lézard à collerette
+lézard Jésus
+libellule dépressive
+lièvre de Patagonie
+lièvre d'Europe
+lièvre sauteur
+linotte mélodieuse
+lipizzan
+lion d'Afrique
+lion d'Asie
+loir gris
+loriquet à tête bleu
+loup à crinière
+loup Arctique
+loup d'Abyssinie
+loup de l'Est
+loup Ibérique
+loup des Indes
+loup de Mongolie
+loup du Mexique
+loup gris
+loup rouge
+loutre
+lucane cerf-volant
+lycaon
+lynx Boréal
+lynx du désert
+lynx roux
+macaque à queue de lion
+macaque berbère
+macareux moine
+machaon
+main Coon
+maki catta
+maki vari noir et blanc
+maki vari roux
+malamute
+mamba noir
+mammouth laineux
+manakin de Bokermann
+manchot empereur
+mandrill
+mangouste ichneumon
+mangouste jaune
+mante orchidée
+mante religieuse
+manul
+mara
+marabout
+margay
+markhor
+marmotte des Alpes
+martin chasseur à ailes bleues
+martin chasseur à collier blanc
+martin pêcheur
+martin pêcheur vert
+martinet à ventre blanc
+martre à gorge jaune
+martre des pins
+mâtin de Naples
+mau egyptien
+merlebleu azuré
+merle d'Amérique
+merle noir
+mésange bleue
+mésange hupée
+messager sagittaire
+milan royal
+miro incarnat
+moineau domestique
+moloch
+monarque
+montagne des Pyrénées
+moro sphinx
+morse
+motmot
+mouche à damier
+moucherolle royal
+mouffette rayée
+mouffette tachetée
+mouflon
+moustique tigre
+mouton cheviot
+muntjac de Reeves
+muscardin
+mustang
+myrmidon
+nandinie
+nandou de Darwin
+narval
+nasique
+nautile
+nebelung
+nestor kéa
+nette rousse
+nicator à gorge grise
+nicobar à camail
+nilgaut
+niverolle alpine
+noctuelle potagère
+noctule commune
+noddi brun
+norvégien
+nothocrax nocturne
+numbat
+nyala
+nyctale de tengmalm
+ocelot
+oKapi
+olinguito
+onagre
+opossum
+orang outan
+orignal
+oriole de Baltimore
+ombrette africaine
+ornithorynque
+orque
+oryctérope du Cap
+oryx algazelle
+oryx gazelle
+otarie de Californie
+otarie des Galapagos
+ouakari chauve
+ouandérou
+ouaouaron
+ouistiti à toupets blancs
+ouistiti argenté
+ourébi
+ours à collier
+ours à lunettes
+ours brun
+ours esprit
+ours lippu
+ours malais
+ours noir
+ours polaire
+otocyon
+pacarana
+paon bleu
+paon du jour
+panda géant
+panda roux
+pangolin de Chine
+pangolin Géant
+panthere de Ceylan
+panthère de l'Amour
+panthère longibande
+panthère nébuleuse
+panure à moustaches
+paresseux à deux doigts
+paresseux à gorge brune
+paruline jaune
+patas
+pécari à collier
+pélican blanc
+pélican frisé
+perche
+percheron
+petrogale
+phacochère
+phasme scorpion
+phoque veau marin
+pic épeiche
+pic flamboyant
+pic vert
+pie bavarde
+pièride du chou
+pilandok
+pinché à crête blanche
+pingouin
+pinson des arbres
+pintade vulturine
+pirolle de TaÏwan
+pirolle verte
+podarge de Ceylan
+poisson clown
+polatouche de Sibérie
+poney shetland
+porc Epic d'Amérique
+porc Epic du Cap
+porc pie noir
+potamochère
+pottok
+poule Araucana
+poule du Sussex
+poule soie blanche
+poule Wyandotte
+processionnaire du pin
+pronghorn
+propithèque à couronne dorée
+protèle
+pogona
+potoo
+pudu des Andes
+puma
+putois à pieds noirs
+putois d'Europe
+pygargue à tête blanche
+python vert
+quarter-Horse
+quetzal
+resplendissant
+quokka
+ragondin
+raie Manta
+rainette aux yeux rouges
+rascasse volante
+ratel
+rat-taupe nu
+raton laveur
+renard crabier
+renard des savanes
+renard gris
+renard polaire
+renard roux
+renard corsac
+renard des sables
+renne
+requin Baleine
+requin blanc
+requin marteau (grand)
+rhinocéros blanc
+rhinocéros de Sumatra
+rhinocéros indien
+rhinocéros noir
+rhinopithèque de Stryker
+rollier à longs brins
+rollier Indien
+rorqual à bosse
+rorqual bleu
+rouge gorge
+rouge-queue noir
+sacré de Birmanie
+saïga
+saïmiri à tête noire
+saint-Bernard
+saki à face blanche
+salamandre Tachetée
+salers
+sambar
+samoyède
+sanglier commun
+saola
+sapajou apelle
+sauterelle de Bosc
+sauterelle verte (grande)
+scinque à flancs rouges
+scolie des jardins
+scottish Terrier
+selkirk rex
+semnopithèque de Thomas
+serpentaire bacha
+serval
+selle français
+setter Irlandais
+shar Peï
+shetland (poney)
+shiba-inu
+siamois
+siberian husky
+silure glane
+singe hurleur noir
+sittelle à poitrine blanche
+sittelle torchepot
+sizerin flammé
+smilodon
+somali
+sorraïa
+souris rayée d'Afrique
+spatule rose
+spermophile rayé
+spilogale
+sphynx
+spizaète orné
+springbok
+steenbok
+suricate
+takin
+tamandua du Mexique
+tamanoir
+tamarin à mains dorées
+tamarin empereur
+tamarin lion doré
+tamia rayé
+tangara émeraude
+tangara évêque
+tantale ibis
+tapir de Malaisie
+tapir du Brésil
+tarentaise
+tarier pâtre
+tarine
+tarsier des Philippines
+tatou à neuf bandes
+tatou géant
+taupe à nez étoilé
+taupe d'Europe
+tchitrec de paradis
+tenrec zébré
+tétras des prairies
+tétras lyre
+thon rouge
+tigre à dents de sabre
+tigre blanc royal
+tigre du Bengal
+tigre doré
+tigre de Sibérie
+tigre de Sumatra
+tigre de Tasmanie
+tisserin gendarme
+topi
+tortue géante
+tortue luth
+tortue molle
+tortue verte
+toucan à carène
+touraco vert
+triton alpestre
+troglodyte des marais
+troglodyte mignon
+trogon de Cuba
+tropidacris cristata
+truite fario
+tyrannosaure
+unau
+vampire d'Azara
+varan bigarré
+vautour africain
+vautour fauve
+vautour pape
+vautour percnoptère
+verdier d'Europe
+vipère à cornes
+vipère Aspic
+viscache des plaines
+vigogne
+vison
+wallaby de Bennett
+wallaby des rochers
+wapiti
+waterbuck
+welsh corgi
+west highland terrier
+wombat commun
+xantusie du désert
+xylocope violacé
+xérus
+yack
+yapock
+york Chocolat
+yorkshire terrier
+zèbre de Burchell
+zèbre de Grévy
+zorille du Cap
