@@ -44,7 +44,7 @@ def jouons():
 
         #set of unique letters in expression
         #combines all forms of accented letters, forcing lower case, and removing the spaces
-        lettres_uniques = set(unicodedata.normalize('NFKD', expression_hazard).encode('ASCII', 'ignore').decode().lower()) - {' '}
+        lettres_uniques = set(unicodedata.normalize('NFKD', expression_hazard).encode('ASCII', 'ignore').decode().lower()) - {' ', "'"}
 
         afficher_probleme()
         #fewer incorrect letters than number of lives
