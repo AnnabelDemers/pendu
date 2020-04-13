@@ -38,9 +38,9 @@ def jouons():
                            else letter for letter in stringlist]
             print("\n"+"".join(displaylist))
             if len(set(lettres_devinees) - lettres_uniques) > 0:
-                print("\nlettre erronées: %s\n" % (" ".join(set(lettres_devinees) - lettres_uniques)))
+                print("\nlettres erronées: %s\n" % (" ".join(set(lettres_devinees) - lettres_uniques)))
             #debug
-            #print("\nlettre devinées: %s\n" % (" ".join(lettres_devinees)))
+            #print("\nlettres devinées: %s\n" % (" ".join(lettres_devinees)))
 
         #set of unique letters in expression
         #combines all forms of accented letters, forcing lower case, and removing the spaces
