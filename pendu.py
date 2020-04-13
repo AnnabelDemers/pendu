@@ -19,6 +19,7 @@ def jouons():
         
         charger_fichier('animaux.txt', 'noms d\'animaux')
         charger_fichier('expressions.txt','expressions françaises')
+        charger_fichier('nourriture.txt','la nourriture')
 
         expression_hazard, category = choice(list(banque_mots.items()))
         print("\n*** votre catégorie: %s ***\n" % category)
