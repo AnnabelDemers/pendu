@@ -16,10 +16,12 @@ def jouons():
     rejouer = "o"
     while rejouer == "o":
         print("bienvenue au jeu du bonhomme pendu")
+        
         charger_fichier('animaux.txt', 'noms d\'animaux')
         charger_fichier('expressions.txt','expressions françaises')
 
         expression_hazard, category = choice(list(banque_mots.items()))
+        print("\n*** votre catégorie: %s ***\n" % category)
         
         nombre_vies = 7
         lettres_devinees = set()  #store all guessed letters in a set
