@@ -66,9 +66,9 @@ def jouons():
                 afficher_probleme()
 
         if len(lettres_uniques - lettres_devinees) == 0:
-            print("\nbravo, vous avez trouvé la réponse!")
+            print("\n*** bravo, vous avez trouvé la réponse! ***")
         else:
-            print("\ndésolé, vous avez perdu")
-            print("la réponse était:")
-            print(expression_hazard)
+            print("\n*** désolé, vous avez perdu ***")
+            print("la réponse était: %s" % expression_hazard)
+
         rejouer = input("voulez-vous rejouer? (o/n)")
